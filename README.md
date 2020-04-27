@@ -10,19 +10,19 @@ it .In TUI there are many options regarding docker
 which user use to have the detail information about
 the os ,docker network ,ip etc.
 ### Some of the options are:-
-##### #see running container
-##### #to see images
-##### #install docker images
-##### #run os in docker
-##### #create new image
-##### #network detail of os
-##### #get ip of os
-##### #detail about storage
-##### #Configuring web services
-##### #Download webpress images
-##### #Download mysql
-##### #Start infrastructure of web app
-##### #start docker compose
+1) see running container
+2) to see images
+3) install docker images
+4) run os in docker
+5) create new image
+6) network detail of os
+7) get ip of os
+8) detail about storage
+9) Configuring web services
+10) Download webpress images
+11) Download mysql
+12) Start infrastructure of web app
+13) start docker compose
 Etc. In TUI there is also a web app option to create
 infrastruture of web app.In one click the whole
 infrastructure of web app will launch for the user
