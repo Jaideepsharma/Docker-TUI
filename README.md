@@ -28,8 +28,8 @@ infrastruture of web app.In one click the whole
 infrastructure of web app will launch for the user
 which they can use easily.
 ## SETUP REQUIRED
-1) Both the files of the program should be on the same folder.
-2) Docker should be preinstall on the os on which you  willgoing to use in the program
-3) Install mysql first or just press 24 to install mysqlfrom TUI
-4) Install docker-compose or press 25 in tui to install automatically
-5) Install wordpress using TUI by just pressing option 23 and it will download for the user.
+### 1) Both the files of the program should be on the same folder.
+### 2) Docker should be preinstall on the os on which you  willgoing to use in the program
+### 3) Install mysql first or just press 24 to install mysqlfrom TUI
+### 4) Install docker-compose or press 25 in tui to install automatically
+### 5) Install wordpress using TUI by just pressing option 23 and it will download for the user.
